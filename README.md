@@ -1,5 +1,6 @@
 jdk
 =========
+[![Build Status](https://travis-ci.org/mikhailadvani/jdk.svg?branch=master)](https://travis-ci.org/mikhailadvani/jdk)
 
 Install JDK 8
 
