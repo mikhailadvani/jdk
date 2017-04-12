@@ -71,10 +71,10 @@ galaxy_info:
   #  versions:
   #  - all
   #  - any
-  - name: Amazon
-    versions:
+#  - name: Amazon
+#    versions:
   #  - all
-    - 2017.03
+#    - 2017.03
   #  - 2013.09
   #  - 2016.03
   #  - 2016.09
