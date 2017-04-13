@@ -1,6 +1,6 @@
 jdk
 =========
-[![Build Status](https://travis-ci.org/mikhailadvani/jdk.svg?branch=master)](https://travis-ci.org/mikhailadvani/jdk)
+[![Build Status](https://travis-ci.org/mikhailadvani/jdk.svg?branch=master)](https://travis-ci.org/mikhailadvani/jdk) [![Galaxy](https://img.shields.io/badge/ansible--galaxy-mikhailadvani.jdk-blue.svg)](https://galaxy.ansible.com/mikhailadvani/jdk)
 
 Install JDK 8
 
